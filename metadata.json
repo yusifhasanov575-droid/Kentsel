@@ -1,0 +1,6 @@
+{
+  "name": "Kentsel — 3D Sandbox Şehir Oyunu",
+  "description": "3D izometrik diorama şehir kurma ve simülasyon oyunu. Yollar döşe, binalar inşa et, trafiği ve enerjiyi yönet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
